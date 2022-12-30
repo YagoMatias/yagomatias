@@ -1,6 +1,6 @@
 ### Hello Word 👋
 
-<div align="center">
+<div>
   <a href="https://github.com/YagoMatias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoMatias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoMatias&layout=compact&langs_count=7&theme=algolia"/>
